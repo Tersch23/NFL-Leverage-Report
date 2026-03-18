@@ -12,7 +12,7 @@ A Python tool that identifies an NFL team's highest-leverage improvement opportu
 
 ## Live Report
 
-View the Arizona Cardinals 2025 Report: https://tersch23.github.io/nfl-leverage-report/
+View the Arizona Cardinals 2025 Report: https://tersch23.github.io/NFL-Leverage-Report/
 
 ## How to Run
 
