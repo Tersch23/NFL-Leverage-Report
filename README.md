@@ -46,4 +46,4 @@ Output goes to `./out/` including a CSV, two chart PNGs, and an HTML report.
 ## Author
 
 Jacob VonTersch — [@Tersch23](https://github.com/Tersch23)  
-Data Analytics, Syracuse University iSchool
+B.S. Applied Data Science, Syracuse University iSchool
